@@ -1,5 +1,7 @@
 # g.BALM carbonara
 
+Got this recipe from a friend who buys my bacon. It's pretty damn good, though a bit on the heavy side.
+
 ## Ingredients
  - 1lb spaghetti noodles
  - 1 small onion chopped
