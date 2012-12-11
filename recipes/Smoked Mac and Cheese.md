@@ -4,6 +4,8 @@
 
 Grabbed this recipe from [Suburb Slicker BBQ](http://suburbslickerbbq.blogspot.com/2012/02/smoked-bacon-mac-cheese.html) and modified it a bit by using no butter or cooking spray, and substituting bacon for brocolli.
 
+I prefer to smoke it over a mix of apple and cherry wood as I've found that tastes the best, but you can obviously substitude that for whatever wood you prefer.
+
 ## Serves
 6 - 8
 
@@ -21,9 +23,11 @@ Grabbed this recipe from [Suburb Slicker BBQ](http://suburbslickerbbq.blogspot.c
  - 1 cup crushed corn flakes
  - 1 cup bread crumbs
  - Bag of brocolli florets `(size of the bag is just dependent upon how much brocolli you want)`
+ - Foil container large enough to hold all of this.
  
 ## Directions
  1. Prepare elbow macaroni according to package instructions.
+ 	- Highly recommend putting a few pinches of kosher salt in with the macaroni as it cooks. 
  - Mix elbow macaroni, bacon `(optional)`, cheddar cheese, mexican blend cheese, parmesean cheese and cream cheese together.
  - Mix heavy cream, milk, salt and pepper together.
  - Add milk mixture to macaroni mix and blend together.
@@ -32,5 +36,5 @@ Grabbed this recipe from [Suburb Slicker BBQ](http://suburbslickerbbq.blogspot.c
  - Pour Mac n Cheese into container.
  - Spread bread crumb mixture over top of Mac n Cheese to cover.
  - Place pats of butter on top of crumb mixture.
- - Smoke at 225 degrees F for one hour.
-   - If you don't have a smoker you could in an oven at the same temp and length, it just won't have that smokey goodness.
+ - Smoke at 225°F for one hour. 
+ 	- If you don't have a smoker you could in an oven at the same temp and length, it just won't have that smokey goodness.
