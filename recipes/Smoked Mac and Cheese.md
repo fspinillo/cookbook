@@ -11,19 +11,20 @@ I prefer to smoke it over a mix of apple and cherry wood as I've found that tast
 
 ## Ingredients
  - 16 oz large elbow macaroni, cooked
- - 6 slices of smoked bacon, cut in 1″ pieces `(optional)`
  - 2 cups sharp cheddar cheese, shredded
  - 2 cups mexican blend (cheddar/colby) cheese, shredded
+ 	- Can also substitute this for 2 cups of gouda.
  - 5 oz parmsean cheese, shredded
  - 8 oz cream cheese, cubed
- - 1 pint heavy cream
+ - 1 pint heavy whipping cream
  - 1 cup milk
  - 1 tbs salt
  - 2 tbs pepper
  - 1 cup crushed corn flakes
  - 1 cup bread crumbs
- - Bag of brocolli florets `(size of the bag is just dependent upon how much brocolli you want)`
+ - 1lb bag of chooped brocolli florets
  - Foil container large enough to hold all of this.
+ - `(optional)` 6 slices of smoked bacon, cut in 1″ pieces 
  
 ## Directions
  1. Prepare elbow macaroni according to package instructions.
