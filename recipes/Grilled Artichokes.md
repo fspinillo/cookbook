@@ -1,6 +1,6 @@
 # Grilled Artichokes
 
-<img src="https://raw.github.com/jonursenbach/foodscode/master/images/grilled-artichokes.jpeg" width="450" />
+<img src="https://raw.github.com/jonursenbach/cookbook/master/images/grilled-artichokes.jpeg" width="450" />
 
 ## Ingredients
  - Artichokes
