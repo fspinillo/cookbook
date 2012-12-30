@@ -1,5 +1,7 @@
 # Brocolli Cheese Casserole
 
+My grandma usually makes this every year when we come down for Christmas. It's pretty damn good, though obviously not really good for you. At all.
+
 ## Ingredients
  - 1 jar Cheez Wiz
  - 2 cans Mushroom Soup
