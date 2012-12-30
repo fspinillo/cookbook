@@ -1,6 +1,6 @@
 # Smoked Mac and Cheese
 
-<img src="https://raw.github.com/jonursenbach/foodscode/master/images/smoked-mac-and-cheese.jpeg" width="450" />
+<img src="https://raw.github.com/jonursenbach/cookbook/master/images/smoked-mac-and-cheese.jpeg" width="450" />
 
 Grabbed this recipe from [Suburb Slicker BBQ](http://suburbslickerbbq.blogspot.com/2012/02/smoked-bacon-mac-cheese.html) and modified it a bit by using no butter or cooking spray, and substituting bacon for brocolli.
 
