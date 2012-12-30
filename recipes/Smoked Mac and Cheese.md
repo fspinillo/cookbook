@@ -22,7 +22,7 @@ I prefer to smoke it over a mix of apple and cherry wood as I've found that tast
  - 2 tbs pepper
  - 1 cup crushed corn flakes
  - 1 cup bread crumbs
- - 1lb bag of chooped brocolli florets
+ - 1lb bag of chopped brocolli florets
  - Foil container large enough to hold all of this.
  - `(optional)` 6 slices of smoked bacon, cut in 1″ pieces 
  
