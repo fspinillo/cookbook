@@ -1,7 +1,5 @@
-Since people who work with [Chef](http://www.opscode.com/chef/) call their Chef cookbooks "opscode", I've got a "foodscode". 
+These are recipes I've either created, curated or modified. Feel free to tweak them to your enjoyment, but though I'd love to hear about anything you do, whether it be the good or bad.
 
-Get it?
+Props to [llkats](https://github.com/llkats) for the idea of putting recipes in a Git repo:
 
-Props to [llkats](https://github.com/llkats) for the idea:
-
-<a href="https://twitter.com/llkats/status/278313809964314624" target="_blank"><img src="https://raw.github.com/jonursenbach/foodscode/master/images/llkats.jpg" /></a>
+<a href="https://twitter.com/llkats/status/278313809964314624" target="_blank"><img src="https://raw.github.com/jonursenbach/cookbook/master/images/llkats.jpg" /></a>
