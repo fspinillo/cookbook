@@ -4,10 +4,10 @@
 
 Grabbed this recipe from [Suburb Slicker BBQ](http://suburbslickerbbq.blogspot.com/2012/02/smoked-bacon-mac-cheese.html) and modified it a bit by using no butter or cooking spray, and substituting bacon for brocolli.
 
-I prefer to smoke it over a mix of apple and cherry wood as I've found that tastes the best, but you can obviously substitude that for whatever wood you prefer.
+It's incredibly heavy and filling, so if you make this, either make it for a lot of people or expect to have leftovers for a couple days.
 
 ## Serves
-6 - 8
+8 - 10
 
 ## Ingredients
  - 16 oz large elbow macaroni, cooked
@@ -24,12 +24,11 @@ I prefer to smoke it over a mix of apple and cherry wood as I've found that tast
  - 1 cup bread crumbs
  - 1lb bag of chopped brocolli florets
  - Foil container large enough to hold all of this.
- - `(optional)` 6 slices of smoked bacon, cut in 1″ pieces 
  
 ## Directions
  1. Prepare elbow macaroni according to package instructions.
  	- Highly recommend putting a few pinches of kosher salt in with the macaroni as it cooks. 
- - Mix elbow macaroni, bacon `(optional)`, cheddar cheese, mexican blend cheese, parmesean cheese and cream cheese together.
+ - Mix elbow macaroni, cheddar cheese, mexican blend cheese, parmesean cheese and cream cheese together.
  - Mix heavy cream, milk, salt and pepper together.
  - Add milk mixture to macaroni mix and blend together.
  - Pour Mac n Cheese into cooking container.
@@ -37,5 +36,14 @@ I prefer to smoke it over a mix of apple and cherry wood as I've found that tast
  - Pour Mac n Cheese into container.
  - Spread bread crumb mixture over top of Mac n Cheese to cover.
  - Place pats of butter on top of crumb mixture.
- - Smoke at 225°F for one hour. 
- 	- If you don't have a smoker you could in an oven at the same temp and length, it just won't have that smokey goodness.
+ 
+### Smoker
+Smoking the mac and cheese gives it a really nice meaty taste that you aren't going to get from an oven. I made this for Thanksgiving 2012 and a friend, who doesn't eat bacon, was absolutely convinced that there was some in it because that's what I usually smoke in my smoker.
+
+I prefer to smoke this over a mix of apple and cherry wood as I've found that tastes the best, but you can obviously substitude that for whatever wood you prefer.
+
+Smoke it at 225°F for one hour, or until it looks like it looks in the picture &mdash; nice a brown.
+
+### Oven
+If you don't have a smoker, you can cook this in an oven just fine, it just won't have that meaty and smokey taste that really makes the dish. Simply cook it at 350°F for about an hour, or until it's nice and brown on top.
+ 	
