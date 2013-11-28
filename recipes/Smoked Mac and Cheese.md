@@ -28,9 +28,12 @@ It's incredibly heavy and filling, so if you make this, either make it for a lot
 ## Directions
  1. Prepare elbow macaroni according to package instructions.
  	- Highly recommend putting a few pinches of kosher salt in with the macaroni as it cooks. 
+ - Thaw your brocolli. Doesn't need to be warm since it's going to get cooked, it just shouldn't be frozen.
  - Mix elbow macaroni, cheddar cheese, mexican blend cheese, parmesean cheese and cream cheese together.
  - Mix heavy cream, milk, salt and pepper together.
  - Add milk mixture to macaroni mix and blend together.
+ - Add brocolli and blend together.
+ - ***Optional:*** Sriracha or your favorite hot sauce. Add as much as you can handle, and blend it together.
  - Pour Mac n Cheese into cooking container.
  - Combine crushed corn flakes and bread crumbs together.
  - Pour Mac n Cheese into container.
@@ -42,7 +45,7 @@ Smoking the mac and cheese gives it a really nice meaty taste that you aren't go
 
 I prefer to smoke this over a mix of apple and cherry wood as I've found that tastes the best, but you can obviously substitude that for whatever wood you prefer.
 
-Smoke it at 225°F for one hour, or until it looks like it looks in the picture &mdash; nice a brown.
+Smoke it at 225°F for one hour, or until it looks like it looks in the picture &mdash; nice and brown.
 
 ### Oven
 If you don't have a smoker, you can cook this in an oven just fine, it just won't have that meaty and smokey taste that really makes the dish. Simply cook it at 350°F for about an hour, or until it's nice and brown on top.
