@@ -1,6 +1,6 @@
 # Chili
 
-Via @fspinillo, adapted from <http://www.foodnetwork.com/recipes/bobby-flay/red-beef-chili-recipe/index.html>
+Via [fspinillo](https://github.com/fspinillo), adapted from <http://www.foodnetwork.com/recipes/bobby-flay/red-beef-chili-recipe/index.html>
 
 ## Ingredients
 - 2 tbsp of oil
