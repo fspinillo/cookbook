@@ -28,15 +28,12 @@ Via [fspinillo](https://github.com/fspinillo), adapted from <http://www.foodnetw
 - Deglaze the pan with the beer and bring to a boil. 
 - Cook until the beer is almost completely reduced. 
 - Remove the meat from the pan and set aside.
-
 - In the same pan, add the remaining 1 tablespoon oil to the same pan and then add the onions and cook on medium heat until soft. 
 - Add the garlic and cook for 2 minutes. 
 - Add the jalapeno and poblano peppers and cook until soft, about 5 minutes. 
 - Add the chicken stock and tomatoes, bring to a boil and cook until slightly thickened, 15 to 20 minutes.
-
 - Puree with an immersion blender. 
 - Add in the chipotle, beans, and diced onions. 
 - Add the beef back to the pan, reduce the heat to medium, cover and simmer until the chili is thick and the beef is tender, 
 about 1 hour 15 minutes. If the chili has too much liquid, continue to cook uncovered to thicken, about 15 minutes. 
-- Remove from the heat, add in the chocolate and maple syrup and stir until the chocolate is melted and combined and 
-adjust seasonings. 
+- Remove from the heat, add in the chocolate and maple syrup and stir until the chocolate is melted and combined and adjust seasonings. 
