@@ -38,7 +38,6 @@ It's incredibly heavy and filling, so if you make this, either make it for a lot
  - Combine crushed corn flakes and bread crumbs together.
  - Pour Mac n Cheese into container.
  - Spread bread crumb mixture over top of Mac n Cheese to cover.
- - Place pats of butter on top of crumb mixture.
  
 ### Smoker
 Smoking the mac and cheese gives it a really nice meaty taste that you aren't going to get from an oven. I made this for Thanksgiving 2012 and a friend, who doesn't eat bacon, was absolutely convinced that there was some in it because that's what I usually smoke in my smoker.
